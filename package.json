@@ -1,0 +1,10 @@
+{
+  "name": "distributed-trace-ingestor",
+  "version": "0.1.0",
+  "description": "分布式 Trace 接入库：乱序 span 缓冲、批次原子提交、partial trace 输出",
+  "main": "src/ingestor.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
